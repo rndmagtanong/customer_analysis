@@ -1,2 +1,3 @@
-# customer_analysis
-Data analysis of customer behavior with clustering
+# Customer Analysis
+
+TL;DR - Preprocessing and light feature engineering were used to clean a dataset with customer data, then a correlation matrix and set of box plots were used to visualize some relationships. GaussianMixture was also used to bin the customers into four distinct categories, then each category was summarized. High income usually means big spender, longer patronage means more expenditure, customers with children are less likely to spend, wine and meat go hand in hand, average income of the big spenders is approx. 70k$ and they spend 1250$ of that on wine, and people with degrees usually spend more.
